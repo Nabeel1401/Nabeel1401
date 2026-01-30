@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Cloud & Security Projects**
 - 🌱 I’m currently learning **Docker, Kubernetes & Cloud Security**
 - 💬 Ask me about **Java, Python, Linux, Cybersecurity**
-- 📫 How to reach me: your@email.com
+- 📫 How to reach me: fathikaan786@gmail.com
 
 ---
 
