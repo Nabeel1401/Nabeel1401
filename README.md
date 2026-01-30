@@ -10,5 +10,10 @@
 
 ### 🛠️ Languages and Tools
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,docker,linux,git,github,aws" />
+<a href="https://www.mysql.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+<a href="https://www.python.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" />
+</a>
 </p>
