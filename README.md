@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nabeel</h1>
+<h3 align="center">Cybersecurity & Cloud Computing Student in Paris 🇫🇷</h3>
 
-<!--
-**Nabeel1401/Nabeel1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Cloud & Security Projects**
+- 🌱 I’m currently learning **Docker, Kubernetes & Cloud Security**
+- 💬 Ask me about **Java, Python, Linux, Cybersecurity**
+- 📫 How to reach me: your@email.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,docker,linux,git,github,aws" />
+</p>
