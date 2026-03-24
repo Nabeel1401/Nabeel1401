@@ -8,40 +8,6 @@
 
 ---
 
-### 🛠️ Languages and Tools
-<p>
-
-<p>
-
-<!-- Programming Languages -->
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c" />
-</a>
-
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=cpp" />
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java" />
-</a>
-
-<a href="https://www.python.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" />
-</a>
-
-<a href="https://www.rust-lang.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=rust" />
-</a>
-
-<a href="https://kotlinlang.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=kotlin" />
-</a>
-
-Got you bro 🔥 — you want each icon clickable → opens official website like your MySQL/Python example.
-
-Here is your FULL clickable version (all skills) 👇
-
 ### 🛠 Languages and Tools
 
 <p>
