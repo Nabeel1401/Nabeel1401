@@ -37,19 +37,6 @@
   <img src="https://skillicons.dev/icons?i=kotlin" />
 </a>
 
-<!-- Web Development -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://skillicons.dev/icons?i=css" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://skillicons.dev/icons?i=javascript" />
-</a>
-
 <a href="https://react.dev/" target="_blank">
   <img src="https://skillicons.dev/icons?i=react" />
 </a>
@@ -60,10 +47,6 @@
 
 <a href="https://expressjs.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=express" />
-</a>
-
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nextjs" />
 </a>
 
 <!-- Databases -->
@@ -84,15 +67,6 @@
   <img src="https://skillicons.dev/icons?i=docker" />
 </a>
 
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=bash" />
-</a>
-
-<!-- Tools -->
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" />
-</a>
-
 <a href="https://github.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
@@ -103,10 +77,6 @@
 
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vscode" />
-</a>
-
-<a href="https://www.jetbrains.com/idea/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=idea" />
 </a>
 
 <a href="https://developer.android.com/studio" target="_blank">
